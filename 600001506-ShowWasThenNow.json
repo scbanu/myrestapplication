@@ -1,0 +1,671 @@
+[
+	{
+		"productId": "3428696",
+		"title": "Hobbs Kiona Dress, Green",
+		"ColorSwatches": [],
+		"nowPrice": "£74.00",
+		"priceLabel": "Was £149.0, Then £89.00, now £74.00",
+		"disocunt": 50.34
+	},
+	{
+		"productId": "3459039",
+		"title": "Hobbs Bayview Dress, Blue/Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£55.00",
+		"priceLabel": "Was £89.0, Then £.00, now £55.00",
+		"disocunt": 38.2
+	},
+	{
+		"productId": "3341058",
+		"title": "Jolie Moi Bonded Lace Prom Dress",
+		"ColorSwatches": [
+			{
+				"color": "Dark Grey",
+				"rgbColor": "#808080",
+				"skuId": "237169362"
+			},
+			{
+				"color": "Dark Mauve",
+				"rgbColor": "#800080",
+				"skuId": "237169364"
+			},
+			{
+				"color": "Dark Teal",
+				"rgbColor": "#0000ff",
+				"skuId": "237169370"
+			},
+			{
+				"color": "Berry",
+				"rgbColor": "#800080",
+				"skuId": "237169205"
+			},
+			{
+				"color": "Burgundy",
+				"rgbColor": "#ff0000",
+				"skuId": "237169270"
+			},
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237169572"
+			},
+			{
+				"color": "Royal Blue",
+				"rgbColor": "#0000ff",
+				"skuId": "237169620"
+			}
+		],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £85.0, Then £68.00, now £59.00",
+		"disocunt": 30.59
+	},
+	{
+		"productId": "3467432",
+		"title": "Boden Rosamund Posy Stripe Dress",
+		"ColorSwatches": [
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237334043"
+			},
+			{
+				"color": "Mimosa Yellow",
+				"rgbColor": "UNDEFINED",
+				"skuId": "237334029"
+			}
+		],
+		"nowPrice": "£63.00",
+		"priceLabel": "Was £90.0, Then £.00, now £63.00",
+		"disocunt": 30.0
+	},
+	{
+		"productId": "3421340",
+		"title": "Phase Eight Beatrix Floral Printed Dress, Cream/Red",
+		"ColorSwatches": [],
+		"nowPrice": "£99.00",
+		"priceLabel": "Was £140.0, Then £.00, now £99.00",
+		"disocunt": 29.29
+	},
+	{
+		"productId": "3525471",
+		"title": "hush Aria Embroidered Dress, White",
+		"ColorSwatches": [],
+		"nowPrice": "£120.00",
+		"priceLabel": "Was £0.0, Then £.00, now £120.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3487329",
+		"title": "Oasis Grecian Midi Dress",
+		"ColorSwatches": [
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237445349"
+			},
+			{
+				"color": "Khaki",
+				"rgbColor": "#008000",
+				"skuId": "237445371"
+			}
+		],
+		"nowPrice": "£30.40",
+		"priceLabel": "Was £0.0, Then £.00, now £30.40",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525199",
+		"title": "hush Kaia Dress, Black",
+		"ColorSwatches": [],
+		"nowPrice": "£65.00",
+		"priceLabel": "Was £0.0, Then £.00, now £65.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3436619",
+		"title": "hush Pleat Panel Dress, Baby Blue",
+		"ColorSwatches": [],
+		"nowPrice": "£85.00",
+		"priceLabel": "Was £0.0, Then £.00, now £85.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3469281",
+		"title": "Whistles Florencia Sun Dress",
+		"ColorSwatches": [
+			{
+				"color": "Black",
+				"rgbColor": "#000000",
+				"skuId": "237414666"
+			},
+			{
+				"color": "Blue",
+				"rgbColor": "#0000ff",
+				"skuId": "237398447"
+			}
+		],
+		"nowPrice": "£119.00",
+		"priceLabel": "Was £0.0, Then £.00, now £119.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3523166",
+		"title": "Mint Velvet Kelly Printed Chiffon Dress, Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£109.00",
+		"priceLabel": "Was £0.0, Then £.00, now £109.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3486076",
+		"title": "Mint Velvet Tie Shoulder Dress",
+		"ColorSwatches": [
+			{
+				"color": "Khaki",
+				"rgbColor": "#008000",
+				"skuId": "237437847"
+			},
+			{
+				"color": "Ink",
+				"rgbColor": "#0000ff",
+				"skuId": "237462393"
+			}
+		],
+		"nowPrice": "£99.00",
+		"priceLabel": "Was £0.0, Then £.00, now £99.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3541210",
+		"title": "Karen Millen Palm Pleats Dress, Blue/Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£199.00",
+		"priceLabel": "Was £0.0, Then £.00, now £199.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3527722",
+		"title": "Somerset by Alice Temperley Palm Print V-Neck Dress, Coral",
+		"ColorSwatches": [],
+		"nowPrice": "£130.00",
+		"priceLabel": "Was £0.0, Then £.00, now £130.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3159202",
+		"title": "hush V-Neck Tara Dress",
+		"ColorSwatches": [
+			{
+				"color": "Black",
+				"rgbColor": "#000000",
+				"skuId": "236805043"
+			},
+			{
+				"color": "Grey",
+				"rgbColor": "UNDEFINED",
+				"skuId": "237348273"
+			}
+		],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525227",
+		"title": "hush Grecian Brushstroke Print Dress, Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£45.00",
+		"priceLabel": "Was £0.0, Then £.00, now £45.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3476586",
+		"title": "hush Shark Print Emanuelle Dress, Ski Red/White",
+		"ColorSwatches": [],
+		"nowPrice": "£65.00",
+		"priceLabel": "Was £0.0, Then £.00, now £65.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3469126",
+		"title": "Boden Marina Poppy Print Jersey Dress, Navy/Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£80.00",
+		"priceLabel": "Was £0.0, Then £.00, now £80.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3378810",
+		"title": "Collection WEEKEND by John Lewis Daisy Chain Print Dress, Blue/Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3417938",
+		"title": "hush Bloomsbury Shirt Dress",
+		"ColorSwatches": [
+			{
+				"color": "Black",
+				"rgbColor": "#000000",
+				"skuId": "237345045"
+			},
+			{
+				"color": "Ski Red",
+				"rgbColor": "#ff0000",
+				"skuId": "237420219"
+			}
+		],
+		"nowPrice": "£75.00",
+		"priceLabel": "Was £0.0, Then £.00, now £75.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3461512",
+		"title": "Oasis Lace Tea Dress, Mid Blue",
+		"ColorSwatches": [],
+		"nowPrice": "£44.00",
+		"priceLabel": "Was £0.0, Then £.00, now £44.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525120",
+		"title": "hush Twist Back Dress, Midnight",
+		"ColorSwatches": [],
+		"nowPrice": "£89.00",
+		"priceLabel": "Was £0.0, Then £.00, now £89.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525152",
+		"title": "hush Peyton Shirred Dress, Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£65.00",
+		"priceLabel": "Was £0.0, Then £.00, now £65.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3535129",
+		"title": "Oasis Hydrangea Bardot Midi Dress, Blue",
+		"ColorSwatches": [],
+		"nowPrice": "£64.00",
+		"priceLabel": "Was £0.0, Then £.00, now £64.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525183",
+		"title": "hush Goa Embroidered Dress, Midnight",
+		"ColorSwatches": [],
+		"nowPrice": "£89.00",
+		"priceLabel": "Was £0.0, Then £.00, now £89.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3519207",
+		"title": "Jaeger Floral Print Silk Kimono Dress, Orange",
+		"ColorSwatches": [],
+		"nowPrice": "£225.00",
+		"priceLabel": "Was £0.0, Then £.00, now £225.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3476158",
+		"title": "hush Dakota Striped Dress, White/Black",
+		"ColorSwatches": [],
+		"nowPrice": "£75.00",
+		"priceLabel": "Was £0.0, Then £.00, now £75.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3511155",
+		"title": "Collection WEEKEND by John Lewis Lavinia Poppy Print Dress, Navy/White",
+		"ColorSwatches": [],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3509555",
+		"title": "Warehouse V-Neck Cami Dress",
+		"ColorSwatches": [
+			{
+				"color": "Khaki",
+				"rgbColor": "#008000",
+				"skuId": "237473294"
+			},
+			{
+				"color": "Black",
+				"rgbColor": "#000000",
+				"skuId": "237469767"
+			},
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237473471"
+			},
+			{
+				"color": "Orange",
+				"rgbColor": "#FF8000",
+				"skuId": "237473540"
+			}
+		],
+		"nowPrice": "£22.40",
+		"priceLabel": "Was £0.0, Then £.00, now £22.40",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3397317",
+		"title": "Coast Betty Midi Dress",
+		"ColorSwatches": [
+			{
+				"color": "Blush",
+				"rgbColor": "#FFC0CB",
+				"skuId": "237298739"
+			},
+			{
+				"color": "Mint",
+				"rgbColor": "#008000",
+				"skuId": "237298976"
+			},
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237299103"
+			}
+		],
+		"nowPrice": "£74.25",
+		"priceLabel": "Was £0.0, Then £.00, now £74.25",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3529159",
+		"title": "Mint Velvet Striped Cotton Dress",
+		"ColorSwatches": [
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237498197"
+			},
+			{
+				"color": "Tomato",
+				"rgbColor": "#ff0000",
+				"skuId": "237498127"
+			},
+			{
+				"color": "Ivory",
+				"rgbColor": "#FFFFFF",
+				"skuId": "237508457"
+			}
+		],
+		"nowPrice": "£109.00",
+		"priceLabel": "Was £0.0, Then £.00, now £109.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3417935",
+		"title": "French Connection Komo Dress, Navy/White",
+		"ColorSwatches": [],
+		"nowPrice": "£65.00",
+		"priceLabel": "Was £0.0, Then £.00, now £65.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3465209",
+		"title": "Warehouse Cotton Tie Back Midi Dress",
+		"ColorSwatches": [
+			{
+				"color": "Bright Blue",
+				"rgbColor": "#0000ff",
+				"skuId": "237409527"
+			},
+			{
+				"color": "Orange",
+				"rgbColor": "#FF8000",
+				"skuId": "237437634"
+			},
+			{
+				"color": "Light Blue",
+				"rgbColor": "#0000ff",
+				"skuId": "237497964"
+			}
+		],
+		"nowPrice": "£31.20",
+		"priceLabel": "Was £0.0, Then £.00, now £31.20",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3499088",
+		"title": "Jolie Moi Lace Bodice Pleated Dress",
+		"ColorSwatches": [
+			{
+				"color": "Black",
+				"rgbColor": "#000000",
+				"skuId": "237456406"
+			},
+			{
+				"color": "Mauve",
+				"rgbColor": "#800080",
+				"skuId": "237456493"
+			},
+			{
+				"color": "Navy",
+				"rgbColor": "#0000ff",
+				"skuId": "237456562"
+			}
+		],
+		"nowPrice": "£56.00",
+		"priceLabel": "Was £0.0, Then £.00, now £56.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3419061",
+		"title": "hush Delilah Fringe Dress",
+		"ColorSwatches": [
+			{
+				"color": "Hibiscus",
+				"rgbColor": "#FFC0CB",
+				"skuId": "237345292"
+			},
+			{
+				"color": "Black",
+				"rgbColor": "#000000",
+				"skuId": "237345095"
+			}
+		],
+		"nowPrice": "£65.00",
+		"priceLabel": "Was £0.0, Then £.00, now £65.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3399470",
+		"title": "Kin by John Lewis Block Print Dress, Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£75.00",
+		"priceLabel": "Was £0.0, Then £.00, now £75.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3533242",
+		"title": "Hobbs Delilah Wrap Dress, Blue/Ivory",
+		"ColorSwatches": [],
+		"nowPrice": "£99.00",
+		"priceLabel": "Was £0.0, Then £.00, now £99.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525218",
+		"title": "hush Kaia Mini Star Dress, Hibiscus/White",
+		"ColorSwatches": [],
+		"nowPrice": "£65.00",
+		"priceLabel": "Was £0.0, Then £.00, now £65.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3491428",
+		"title": "Oasis Shirt Dress",
+		"ColorSwatches": [
+			{
+				"color": "Khaki",
+				"rgbColor": "#008000",
+				"skuId": "237448762"
+			},
+			{
+				"color": "Mid Orange",
+				"rgbColor": "#FF8000",
+				"skuId": "237462400"
+			}
+		],
+		"nowPrice": "£33.60",
+		"priceLabel": "Was £0.0, Then £.00, now £33.60",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525213",
+		"title": "hush Grecian Dress, Black",
+		"ColorSwatches": [],
+		"nowPrice": "£45.00",
+		"priceLabel": "Was £0.0, Then £.00, now £45.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3491367",
+		"title": "Mint Velvet Blossom Print Shirt Dress, Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£119.00",
+		"priceLabel": "Was £0.0, Then £.00, now £119.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3540120",
+		"title": "Warehouse Toucan Print Cami Dress, Green Print",
+		"ColorSwatches": [],
+		"nowPrice": "£28.80",
+		"priceLabel": "Was £0.0, Then £.00, now £28.80",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3418268",
+		"title": "hush Jamie Cotton T-Shirt Dress",
+		"ColorSwatches": [
+			{
+				"color": "Washed Black",
+				"rgbColor": "#000000",
+				"skuId": "237345355"
+			},
+			{
+				"color": "Grey Marl",
+				"rgbColor": "#008000",
+				"skuId": "237419937"
+			}
+		],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3421234",
+		"title": "hush Alanis Dress, Black",
+		"ColorSwatches": [],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3419105",
+		"title": "hush Venice Beach Dress",
+		"ColorSwatches": [
+			{
+				"color": "French Blue",
+				"rgbColor": "#0000ff",
+				"skuId": "237348235"
+			},
+			{
+				"color": "Hibiscus",
+				"rgbColor": "#FFC0CB",
+				"skuId": "237348324"
+			},
+			{
+				"color": "Midnight",
+				"rgbColor": "#0000ff",
+				"skuId": "237348312"
+			}
+		],
+		"nowPrice": "£40.00",
+		"priceLabel": "Was £0.0, Then £.00, now £40.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3547560",
+		"title": "Boden Lily Jersey Dress",
+		"ColorSwatches": [
+			{
+				"color": "Ice Grey Retro Spot",
+				"rgbColor": "#808080",
+				"skuId": "237409830"
+			},
+			{
+				"color": "Pollen Retro Spot",
+				"rgbColor": "UNDEFINED",
+				"skuId": "237409969"
+			}
+		],
+		"nowPrice": "£98.00",
+		"priceLabel": "Was £0.0, Then £.00, now £98.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3523279",
+		"title": "Hobbs Darcie Polka Dot Print Dress, Red/White",
+		"ColorSwatches": [],
+		"nowPrice": "£79.00",
+		"priceLabel": "Was £0.0, Then £.00, now £79.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3419111",
+		"title": "hush Tara Striped V-Neck Dress",
+		"ColorSwatches": [
+			{
+				"color": "White/Black Stripe",
+				"rgbColor": "#FFFFFF",
+				"skuId": "237348495"
+			},
+			{
+				"color": "White/French Blue",
+				"rgbColor": "UNDEFINED",
+				"skuId": "237420362"
+			}
+		],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525085",
+		"title": "hush Tasha Vest Dress",
+		"ColorSwatches": [
+			{
+				"color": "Wine",
+				"rgbColor": "#ff0000",
+				"skuId": "237494589"
+			},
+			{
+				"color": "Midnight",
+				"rgbColor": "#0000ff",
+				"skuId": "237494562"
+			}
+		],
+		"nowPrice": "£55.00",
+		"priceLabel": "Was £0.0, Then £.00, now £55.00",
+		"disocunt": 0.0
+	},
+	{
+		"productId": "3525081",
+		"title": "hush Marble Panel Maxi Dress, Multi",
+		"ColorSwatches": [],
+		"nowPrice": "£59.00",
+		"priceLabel": "Was £0.0, Then £.00, now £59.00",
+		"disocunt": 0.0
+	}
+]
